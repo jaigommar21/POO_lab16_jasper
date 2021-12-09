@@ -1,1 +1,1 @@
-### Call store procedure
+### Jasper Report with parameters
